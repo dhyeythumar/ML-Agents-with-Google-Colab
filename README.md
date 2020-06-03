@@ -1,7 +1,7 @@
 # Training ML-Agents on Google Colab
 
 <h4 align="center">
-    Made for training Unity's environment with ML-Agents on Google Colaboratory
+    For training Unity's built environment with ML-Agents on Google Colaboratory
 </h4>
 
 ## What’s In This Document
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-After struggling, on a particular question (**How to run ML-Agents on Google Colab?**) for days I thought it would be great to create a github repo to share my findings on this topic (after solving this question) as there is little to no information on the internet. This repo gives information on the above question by testing an example environment on colab. 
+After struggling, on a particular question (**How to run ML-Agents on Google Colab?**) for days I thought it would be great to create a github repo to share my findings on this topic (after solving this question) as there is little to no information on the internet. This repo gives information on the above question by testing an example environment on colab. (This example environment is taken from ML-Agents repo)
 
 The environment is built using server/headless mode in Unity. So when I was working on Reinforcement Learning with Ml-Agents (an interface provided by Unity which is used to communicate with the learning environment made using Unity game engine). I felt the need to have one more pc because training requires hours to get completed and it almost used my RAM to its full potential. So I decided to shift the training process on google colab. And here I am gonna tell how I did this. 
 
