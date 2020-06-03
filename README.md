@@ -25,7 +25,7 @@ It is used to create, modify, and build the training environment in server/headl
 
 ## Setup Instructions
 
-Run [this](./ML_Agents-with-Colab.ipynb) python notebook on Google Colab. This will clone the release_1 branch from ML-Agents github repo to colab. For the next step, it will clone this repo to get the example environment and provides the appropriate permissions to the Linux executable i.e. (.x86_64). And after this, it will enable the tensorboard and start the training process.
+Run [**this**](./ML_Agents-with-Colab.ipynb) python notebook on Google Colab. This will clone the release_1 branch from ML-Agents github repo to colab. For the next step, it will clone this repo to get the example environment and provides the appropriate permissions to the Linux executable i.e. (.x86_64). And after this, it will enable the tensorboard and start the training process.
 
 In the end, you can download the .nn file for the /content/models/${run_id} folder to embed that in your Unity environment for the inference process.
 
