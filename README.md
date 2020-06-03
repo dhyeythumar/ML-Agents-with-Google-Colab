@@ -31,4 +31,4 @@ In the end, you can download the .nn file for the /content/models/${run_id} fold
 
 
 ## License
-Licensed under the [GNU General Public License v3.0](./LICENSE).
+Licensed under the [MIT License](./LICENSE).
