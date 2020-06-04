@@ -8,6 +8,7 @@
 - [Introduction](#introduction)
 - [Prerequisites Tools](#prerequisites-tools)
 - [Setup Instructions](#setup-instructions)
+- [Extra Information](#extra-information)
 - [License](#license)
 
 
@@ -28,6 +29,12 @@ It is used to create, modify, and build the training environment in server/headl
 Run [**this**](./ML_Agents-with-Colab.ipynb) python notebook on Google Colab. This will clone the release_1 branch from ML-Agents github repo to colab. For the next step, it will clone this repo to get the example environment and provides the appropriate permissions to the Linux executable i.e. (.x86_64). And after this, it will enable the tensorboard and start the training process.
 
 In the end, you can download the .nn file for the /content/models/${run_id} folder to embed that in your Unity environment for the inference process.
+
+## Extra Information
+
+The above-mentioned notebook only gives the trained (.nn) file and no visual observation while training which I personally think has no fun at all. So searched on how to live stream this training process to twitch while the agents are learning so I can observer and find any errors or new behavior in agents. So if you are interested then keep reading or else you are good to go with the above settings.
+
+So check out this youtube video as an example that I have trained on google colab and live-streamed the whole thing to twitch and then export to youtube (because twitch only saves the video for 14 days). This is done in a different notebook and it requires different settings for the environment build file. And the environment used for this process is given in ML-Agents repo.
 
 
 ## License
