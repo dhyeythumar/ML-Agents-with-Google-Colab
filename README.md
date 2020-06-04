@@ -34,7 +34,7 @@ In the end, you can download the .nn file for the /content/models/${run_id} fold
 
 The above-mentioned notebook only gives the trained (.nn) file and no visual observation while training which I personally think has no fun at all. So searched on how to live stream this training process to twitch while the agents are learning so I can observer and find any errors or new behavior in agents. So if you are interested then keep reading or else you are good to go with the above settings.
 
-So check out this youtube video as an example that I have trained on google colab and live-streamed the whole thing to twitch and then export to youtube (because twitch only saves the video for 14 days). This is done in a different notebook and it requires different settings for the environment build file. And the environment used for this process is given in ML-Agents repo.
+So check out this [youtube video](https://youtu.be/dLMkE8R5nTA) as an example that I have trained on google colab and live-streamed the whole thing to twitch and then export to youtube (because twitch only saves the video for 14 days). This is done in a different notebook and it requires different settings for the environment build file. And the environment used for this process is given in ML-Agents repo.
 
 
 ## License
