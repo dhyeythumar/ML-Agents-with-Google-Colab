@@ -1,8 +1,13 @@
 # Training ML-Agents on Google Colab
 
 <h4 align="center">
-    For training Unity's built environment in server/headless mode with <a href="https://github.com/Unity-Technologies/ml-agents">ML-Agents</a> on Google Colaboratory
+    For training Unity's built environment in server/headless mode with <a href="https://github.com/Unity-Technologies/ml-agents">ML-Agents</a> on Google Colaboratory.
 </h4>
+
+### Updates to my current project
+Check out this [**youtube video**](https://youtu.be/4vwZNTagHsQ) on "<ins>How a reinforcement learning agent tries to learn the simple navigation skill?</ins>" on a custom environment made with Unity Engine.
+
+And I'm also currently working on this environment to increase the difficulty level. *So, if anyone have suggestions/recommendations, feel free to post them here*.
 
 ## What’s In This Document
 - [Introduction](#introduction)
