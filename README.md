@@ -4,10 +4,20 @@
     For training Unity's built environment in server/headless mode with <a href="https://github.com/Unity-Technologies/ml-agents">ML-Agents</a> on Google Colaboratory.
 </h4>
 
-### Updates to my current project
-Check out this [**youtube video**](https://youtu.be/4vwZNTagHsQ) on "<ins>How a reinforcement learning agent tries to learn the simple navigation skill?</ins>" on a custom environment made with Unity Engine.
 
-And I'm also currently working on this environment to increase the difficulty level. *So, if anyone have suggestions/recommendations, feel free to post them here*.
+### Updates to my current project
+Check out this [**youtube video**](https://youtu.be/4vwZNTagHsQ) on "<ins>Navigation strategies learned by an ML-Agent</ins>" on a custom environment made with Unity Engine.
+
+And I'm also currently working on this environment to increase the difficulty level. *So, if anyone have suggestions/recommendations, feel free connect with me [here](mailto:dhyeythumar@gmail.com)*.
+
+
+**Important details about this repository:**
+- Unity engine version used to build the environment = 2019.3.15f1
+- ML-Agents branch = release_1
+- Environment name = 3dball (sample environment provided in ML-Agents repo.)
+
+**Environment in this repo is build for Linux with server/headless mode with the help Unity engine.**
+
 
 ## What’s In This Document
 - [Introduction](#introduction)
