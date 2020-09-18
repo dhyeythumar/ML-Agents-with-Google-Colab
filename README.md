@@ -11,13 +11,12 @@ Check out this [**youtube video**](https://youtu.be/4vwZNTagHsQ) on "<ins>Naviga
 And I'm also currently working on this environment to increase the difficulty level. *So, if anyone have suggestions/recommendations, feel free connect with me [here](mailto:dhyeythumar@gmail.com)*.
 
 
-**Important details about this repository:**
-- Unity engine version used to build the environment = 2019.3.15f1
-- ML-Agents branch = release_1
-- Environment name = 3dball (sample environment provided in ML-Agents repo.)
-
-**Environment in this repo is build for Linux with server/headless mode with the help Unity engine.**
-
+> **Important details about this repository:**
+> - Unity engine version used to build the environment = 2019.3.15f1
+> - ML-Agents branch = release_1
+> - Environment name = 3dball (sample environment provided in ML-Agents repo.)
+>
+> **Environment in this repo is build for Linux with server/headless mode with the help Unity engine.**
 
 ## What’s In This Document
 - [Introduction](#introduction)
