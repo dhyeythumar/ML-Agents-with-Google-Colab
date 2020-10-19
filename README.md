@@ -1,7 +1,7 @@
 # Training ML-Agents on Google Colab
 
 <h4 align="center">
-    For training Unity's built environment in server/headless mode with <a href="https://github.com/Unity-Technologies/ml-agents">ML-Agents</a> on Google Colaboratory.
+    Training Unity's built environment in server/headless mode with <a href="https://github.com/Unity-Technologies/ml-agents">ML-Agents</a> on Google Colab.
 </h4>
 
 
@@ -16,7 +16,7 @@ And I'm also currently working on this environment to increase the difficulty le
 > - ML-Agents branch = release_1
 > - Environment name = 3dball (sample environment provided in ML-Agents repo) (Upload all the files )
 >
-> **Environment in this repo is build for Linux with server/headless mode enabled with the help Unity engine.**
+> **Environment in this repo is build for Linux with server/headless mode enabled using the Unity engine.**
 >
 > **Upload all the files which are generated for the environment binary. Check out [this link](./headless_build/3DBall_example) to get an idea.**
 
@@ -30,9 +30,9 @@ And I'm also currently working on this environment to increase the difficulty le
 
 ## Introduction
 
-After struggling, on a particular question (**How to run ML-Agents on Google Colab?**) for days I thought it would be great to create a github repo to share my findings on this topic (after solving this question) as there is little to no information on the internet. This repo gives information on the above question by testing an example environment on colab. (This example environment is taken from ML-Agents [**repo**](https://github.com/Unity-Technologies/ml-agents))
+After struggling, on a particular question (**How to run ML-Agents on Google Colab?**) for days, I thought it would be great to create a github repo to share my findings on this topic as there is little to no information on the internet. This repo gives information on the above question by testing an example environment on colab. (This example environment is taken from ML-Agents [**repo**](https://github.com/Unity-Technologies/ml-agents))
 
-So when I was working on Reinforcement Learning with ML-Agents (an interface provided by Unity which is used to communicate with the learning environment made using the Unity engine). I felt the need to have one more PC because training requires hours to get completed and also using my RAM to its full potential (until it is exhausted 🙁). So I decided to shift the training process on Google Colab. And here I am gonna tell how I did this. 
+So when I started working on Reinforcement Learning with ML-Agents (an interface provided by Unity, which is used to communicate with the learning environment made using the Unity engine). I felt the need to have one more PC because training requires hours to get completed and also using my RAM to its full potential (until it is exhausted 🙁). So I decided to shift the training process to Google Colab. And here I am gonna tell how I did this.
 
 ## Prerequisites Tools
 
@@ -49,9 +49,9 @@ In the end, you can download the .nn file from the /content/models/${run_id} fol
 
 ## Extra Information
 
-The above-mentioned notebook only gives the trained (.nn) file and no visual observation while training, which I personally think has no fun at all. So after hunting down this question on the internet (i.e How to live stream the training process on twitch platform while the agents are learning?) so I can observer and find any errors or new behavior in agents. So if you are interested then keep reading or else you are good to go with the above settings.
+The above-mentioned notebook only gives the trained (.nn) file and no visual observation while training, which I personally think has no fun at all. So after hunting down this question on the internet (i.e How to live stream the training process on the twitch platform while the agents are learning?) so I can observe and find any errors or new behavior in agents. So if you are interested then keep reading, or else you are good to go with the above settings.
 
-So check out this [youtube video](https://youtu.be/dLMkE8R5nTA) as an example that I have trained on google colab and live-streamed the whole training visuals to twitch and then export to youtube (because twitch only saves the video for 14 days). This process is done in a different notebook and it requires different settings for the environment build file. (The example environment used for this process is also given in ML-Agents [**repo**](https://github.com/Unity-Technologies/ml-agents))
+So check out this [youtube video](https://youtu.be/dLMkE8R5nTA) as an example that I have trained on google colab and live-streamed the whole training visuals to twitch and then export to youtube (because twitch only saves the video for 14 days). This process is done in a different notebook, and it requires different settings for the environment binary files. (The example environment used for this process is also given in ML-Agents [**repo**](https://github.com/Unity-Technologies/ml-agents))
 
 
 ## License
