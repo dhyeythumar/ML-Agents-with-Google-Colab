@@ -1,4 +1,4 @@
-# Training ML-Agents on Google Colab
+# Training ML-Agents with Google Colab
 
 <h4 align="center">
     Training Unity's built environment in server/headless mode with <a href="https://github.com/Unity-Technologies/ml-agents">ML-Agents</a> on Google Colab.
