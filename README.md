@@ -6,7 +6,13 @@
 
 
 ### Updates to my current project
-Check out this [**youtube video**](https://youtu.be/4vwZNTagHsQ) on "<ins>Navigation strategies learned by an ML-Agent</ins>" on a custom environment made with Unity Engine.
+
+<p align="center">
+<a href="https://youtu.be/4vwZNTagHsQ">
+    <img alt="video stats" src="https://youtube-stats-card.vercel.app/api/video?videoid=4vwZNTagHsQ&layout=compact&theme=dark_pink" />
+</a> <br />
+Check out the above youtube video on "<ins>Navigation strategies learned by an ML-Agent</ins>" on a custom environment made with Unity Engine.
+</p>
 
 And I'm also currently working on this environment to increase the difficulty level. *So, if anyone have suggestions/recommendations, feel free connect with me [here](mailto:dhyeythumar@gmail.com)*.
 
@@ -51,7 +57,12 @@ In the end, you can download the .nn file from the /content/models/${run_id} fol
 
 The above-mentioned notebook only gives the trained (.nn) file and no visual observation while training, which I personally think has no fun at all. So after hunting down this question on the internet (i.e How to live stream the training process on the twitch platform while the agents are learning?) so I can observe and find any errors or new behavior in agents. So if you are interested then keep reading, or else you are good to go with the above settings.
 
-So check out this [youtube video](https://youtu.be/dLMkE8R5nTA) as an example that I have trained on google colab and live-streamed the whole training visuals to twitch and then export to youtube (because twitch only saves the video for 14 days). This process is done in a different notebook, and it requires different settings for the environment binary files.
+<p align="center">
+<a href="https://youtu.be/dLMkE8R5nTA">
+    <img alt="video stats" src="https://youtube-stats-card.vercel.app/api/video?videoid=dLMkE8R5nTA&layout=compact&theme=dark_pink" />
+</a>
+</p>
+Check out the above youtube video as an example that I have trained on google colab and live-streamed the whole training visuals to twitch and then export to youtube (because twitch only saves the video for 14 days). This process is done in a different notebook, and it requires different settings for the environment binary files.
 
 
 ## License
