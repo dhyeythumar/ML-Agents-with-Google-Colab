@@ -49,7 +49,9 @@ The above-mentioned notebook only gives the trained (.nn) file and no visual obs
     <img alt="video stats" src="https://youtube-stats-card.vercel.app/api/video?videoid=dLMkE8R5nTA&layout=compact&theme=dark_pink" />
 </a>
 </p>
-Check out the above youtube video as an example that I have trained on google colab and live-streamed the whole training visuals to twitch and then export to youtube (because twitch only saves the video for 14 days). To explain the process on how to live stream from colab, I have written an article on [**Medium**](https://dhyeythumar.medium.com/training-ml-agents-with-google-colab-live-streaming-to-twitch-5324a8dfa8ef)
+Check out the above youtube video as an example that I have trained on google colab and live-streamed the whole training visuals to twitch and then export to youtube (because twitch only saves the video for 14 days).
+
+To explain the process on how to live stream from colab, I have written an article on [**Medium**](https://dhyeythumar.medium.com/training-ml-agents-with-google-colab-live-streaming-to-twitch-5324a8dfa8ef).
 
 
 ## License
