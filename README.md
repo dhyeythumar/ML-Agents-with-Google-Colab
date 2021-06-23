@@ -1,4 +1,4 @@
-# Training ML-Agents with Google Colab
+# ML-Agents with Google Colab
 
 <h4 align="center">
     Training Unity's built environment in server/headless mode with <a href="https://github.com/Unity-Technologies/ml-agents">ML-Agents</a> on Google Colab.
@@ -12,6 +12,19 @@
 > **Environment in this repo is build for Linux with server/headless mode enabled using the Unity engine.**
 >
 > **Upload all the files which are generated for the environment binary. Check out [this link](./headless_build/3DBall_example) to get an idea.**
+
+---
+
+<div align="center">
+    <p>Try Google Colab Notebook</p>
+    <p>
+        <a href="https://colab.research.google.com/github/dhyeythumar/ML-Agents-with-Google-Colab/blob/master/ML-Agents with Colab.ipynb">
+          <img alt="colab link" src="https://colab.research.google.com/assets/colab-badge.svg" />
+        </a>
+    </p>
+</div>
+
+---
 
 ## What’s In This Document
 - [Introduction](#introduction)
